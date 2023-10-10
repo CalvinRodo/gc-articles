@@ -1,0 +1,262 @@
+# Copyright (C) 2023 CDS
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: CDS Default 3.11.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cds-default\n"
+"POT-Creation-Date: 2023-09-25T18:01:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: iu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: cds-snc\n"
+
+#. Theme Name of the theme
+msgid "CDS Default"
+msgstr ""
+
+#. Description of the theme
+msgid "WET styled Starter Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "CDS"
+msgstr ""
+
+#: 404.php:18
+msgid "Page not found."
+msgstr ""
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: functions.php:78
+msgid "Primary"
+msgstr ""
+
+#: functions.php:79
+msgid "Footer"
+msgstr ""
+
+#: functions.php:80
+msgid "Top bar"
+msgstr ""
+
+#: functions.php:99
+msgid "Black"
+msgstr ""
+
+#: functions.php:104
+msgid "White"
+msgstr ""
+
+#: functions.php:109
+msgid "Primary Blue"
+msgstr ""
+
+#: functions.php:114
+msgid "Dark Blue"
+msgstr ""
+
+#: functions.php:119
+msgid "Light Blue"
+msgstr ""
+
+#: functions.php:124
+msgid "Dark Grey"
+msgstr ""
+
+#: functions.php:129
+msgid "Grey"
+msgstr ""
+
+#: functions.php:134
+msgid "Orange"
+msgstr ""
+
+#: functions.php:139
+msgid "Green"
+msgstr ""
+
+#: functions.php:144
+msgid "Red"
+msgstr ""
+
+#: functions.php:152
+msgid "Small"
+msgstr ""
+
+#: functions.php:157
+msgid "Medium"
+msgstr ""
+
+#: functions.php:162
+msgid "Large"
+msgstr ""
+
+#: functions.php:167
+msgid "X-Large"
+msgstr ""
+
+#: functions.php:172
+msgid "XX-Large"
+msgstr ""
+
+#: functions.php:177
+msgid "XXX-Large"
+msgstr ""
+
+#: functions.php:238
+msgid "GC Homepage"
+msgstr ""
+
+#: functions.php:255
+msgid "Default homepage"
+msgstr ""
+
+#: functions.php:260
+msgid "Table of contents"
+msgstr ""
+
+#: header.php:40
+msgid "Your site is currently in maintenance mode. Only logged in users will be able to see this page."
+msgstr ""
+
+#: header.php:43
+msgid "To make your site live <a href=\"%s\">update your site settings</a>."
+msgstr ""
+
+#: header.php:52
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:65
+msgid "Sign out"
+msgstr ""
+
+#: header.php:67
+msgid "Sign in"
+msgstr ""
+
+#: header.php:94
+#: header.php:101
+#: header.php:106
+#: header.php:115
+msgid "Search"
+msgstr ""
+
+#: header.php:139
+#: header.php:142
+msgid "Menu"
+msgstr ""
+
+#: header.php:141
+msgid "Main"
+msgstr ""
+
+#: inc/template-functions.php:32
+msgid "Document navigation"
+msgstr ""
+
+#: inc/template-functions.php:37
+msgid "Next blog post"
+msgstr ""
+
+#: inc/template-functions.php:48
+msgid "Previous blog post"
+msgstr ""
+
+#: inc/template-functions.php:93
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-functions.php:94
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-functions.php:95
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-functions.php:96
+msgid "Posts"
+msgstr ""
+
+#: inc/template-functions.php:168
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/template-functions.php:170
+msgid "You are here:"
+msgstr ""
+
+#: inc/template-functions.php:454
+msgid "Toggle submenu"
+msgstr ""
+
+#: inc/template-functions.php:457
+msgid "Top menu"
+msgstr ""
+
+#: inc/template-functions.php:458
+msgid "submenu"
+msgstr ""
+
+#: inc/template-functions.php:479
+msgid "Toggle submenu for "
+msgstr ""
+
+#: inc/template-functions.php:495
+msgid "Date modified:"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:44
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: maintenance.php:5
+msgid "We’re currently working on this"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "Nothing found! Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
