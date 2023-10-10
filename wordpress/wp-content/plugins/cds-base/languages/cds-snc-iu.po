@@ -5,372 +5,374 @@ msgstr ""
 "Project-Id-Version: CDS-SNC Base 3.6.3\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cds-base\n"
 "POT-Creation-Date: 2022-08-12T20:49:25+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-10-10 14:58+0000\n"
+"Last-Translator: Weblate Admin <calvin.rodo@cds-snc.ca>\n"
+"Language-Team: Inuktitut <http://weblate.example.com/projects/gc-articles/"
+"cds-based/iu/>\n"
 "Language: iu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: WP-CLI 2.6.0\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 2) ? 1 : 2);\n"
+"X-Generator: Weblate 5.1-dev\n"
 "X-Domain: cds-snc\n"
 
 #. Plugin Name of the plugin
 msgid "CDS-SNC Base"
-msgstr ""
+msgstr "CDS-SNC ᑐᙵᕕᖓ"
 
 #. Plugin URI of the plugin
 msgid "https://github.com/cds-snc/gc-articles"
-msgstr ""
+msgstr "https://github.com/cds-snc/gc-articles"
 
 #. Description of the plugin
 msgid "Custom Block setup and other overrides"
-msgstr ""
+msgstr "ᐃᓄᐃᑦ ᐃᓕᖅᑯᓯᖏᑎᒍᑦ ᐋᖅᑭᑦᑎᕆᓂᖅ ᐊᒻᒪᓗ ᐊᓯᖏᑦ ᐅᖓᑖᓕᓯᒪᔪᑦ"
 
 #. Author of the plugin
 msgid "CDS-SNC"
-msgstr ""
+msgstr "CDS-SNC"
 
 #: classes/Modules/Blocks/src/latestPosts/LatestPosts.php:46
 msgid "Read more"
-msgstr ""
+msgstr "ᐅᖃᓕᒫᒃᑲᓐᓂᕆᑦ"
 
 #: classes/Modules/BlocksPHP/BlocksPHP.php:36
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:25
 msgid "Enter your email:"
-msgstr ""
+msgstr "ᐃᕐᖐᓈᖅᑕᐅᑎᑦ ᑎᑎᕋᕐᓗᒋᑦ:"
 
 #: classes/Modules/BlocksPHP/BlocksPHP.php:40
 msgid "Subscribe:"
-msgstr ""
+msgstr "ᐱᓇᔪᖃᑕᐅᔪᓐᓇᖅᐳᓯ:"
 
 #: classes/Modules/Checklists/Setup.php:131
 msgid "Are you sure you want to publish?"
-msgstr ""
+msgstr "ᓴᖅᑭᑐᒪᔭᑎᑦ ᓴᖅᑭᑎᑦᑐᒪᔭᑎᑦ?"
 
 #: classes/Modules/Checklists/Setup.php:132
 msgid "There are still recommended items remaining on your checklist. What would you like to do?"
-msgstr ""
+msgstr "ᐱᑕᖃᖅᐳᖅ ᓱᓕ ᐱᖁᑎᓂᒃ ᐊᒥᐊᒃᑯᓂᒃ ᐱᔭᕇᖅᓯᒪᔭᕆᐊᓕᓐᓄᑦ ᓇᓗᓇᐃᔭᐃᓯᒪᔪᖁᑎᖕᓂ. ᖃᓄᐃᓕᐅᕈᒪᕕᑦ?"
 
 #: classes/Modules/Checklists/Setup.php:134
 msgid "Don’t publish"
-msgstr ""
+msgstr "ᐅᖃᓕᒫᒐᓕᐅᖅᐸᙱᓪᓗᑎᑦ"
 
 #: classes/Modules/Checklists/Setup.php:135
 msgid "Publish anyway"
-msgstr ""
+msgstr "ᑎᑎᖅᑲᙳᖅᑎᓪᓗᒋᑦ"
 
 #: classes/Modules/Checklists/Setup.php:141
 msgid "Publishing not allowed"
-msgstr ""
+msgstr "ᑎᑎᖅᑲᙳᖅᑎᑦᑎᓂᖅ ᐊᔪᖅᑎᑕᐅᔪᖅ"
 
 #: classes/Modules/Checklists/Setup.php:142
 msgid "Please complete all the required checklist items before publishing."
-msgstr ""
+msgstr "ᐱᔭᕇᖅᑕᐃᓐᓇᕆᓗᒋᑦ ᐱᔭᕇᖅᓯᒪᔭᕆᐊᓕᓐᓄᑦ ᓇᓗᓇᐃᔭᐃᓯᒪᔪᑦ ᓴᖅᑭᓚᐅᖏᓐᓂᕐᓂᑦ."
 
 #: classes/Modules/Checklists/Setup.php:144
 msgid "Okay, take me to the list."
-msgstr ""
+msgstr "ᐆᑮ, ᐊᑎᖁᑎᖏᓐᓐ ᖃᐃᑲᐃᓐᓇᕐᓚᖓ."
 
 #: classes/Modules/Checklists/Setup.php:149
 msgid "Publish…"
-msgstr ""
+msgstr "ᑎᑎᖅᑲᙳᖅᑎᓪᓗᒋᑦ…"
 
 #: classes/Modules/Checklists/Setup.php:150
 msgid "Update…"
-msgstr ""
+msgstr "ᓄᑖᙳᕆᐊᖅᑕᖅ…"
 
 #: classes/Modules/Cleanup/AdminBar.php:46
 #: classes/Modules/Cleanup/Login.php:165
 #: classes/Modules/Releases/Releases.php:83
 msgid "GC Articles"
-msgstr ""
+msgstr "GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᓂᕆᔭᐅᔪᑦ"
 
 #: classes/Modules/Cleanup/AdminBar.php:144
 msgid "Invalid nonce"
-msgstr ""
+msgstr "ᐊᑐᙱᑦᑐᑦ ᐊᑑᑎᖃᙱᑦᑐᑦ"
 
 #: classes/Modules/Cleanup/AdminBar.php:145
 msgid "Error"
-msgstr ""
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ"
 
 #: classes/Modules/Cleanup/AdminBar.php:161
 msgid "My Sites"
-msgstr ""
+msgstr "ᐃᓂᒋᔭᒃᑲ"
 
 #: classes/Modules/Cleanup/AdminBar.php:190
 msgid " (current)"
-msgstr ""
+msgstr " (ᒫᓐᓇᐅᔪᖅ)"
 
 #: classes/Modules/Cleanup/AdminBar.php:205
 #: build/index.js:763
 #: build/index.js:681
 msgid "Dashboard"
-msgstr ""
+msgstr "ᕿᑐᑦᑐᒐᐅᔭᖅ"
 
 #: classes/Modules/Cleanup/AdminBar.php:214
 #: build/index.js:764
 #: build/index.js:682
 msgid "Visit"
-msgstr ""
+msgstr "ᐅᐸᒡᓗᒍ"
 
 #: classes/Modules/Cleanup/CreateSites.php:19
 #: classes/Modules/Cleanup/CreateSites.php:33
 msgid "Admin Email <strong>must be</strong> a current Super Admin"
-msgstr ""
+msgstr "ᐃᕐᖐᓐᓈᖅᑕᐅᑦ <strong>ᐃᒪᐃᑦᑕᕆᐊᓕᒃ </strong> ᒫᓐᓇᓕᓴᕐᒧᑦ ᐊᐅᓚᑦᑎᔨ"
 
 #: classes/Modules/Cleanup/CreateSites.php:20
 msgid "or else a new Site won’t be created"
-msgstr ""
+msgstr "ᐊᓯᐊᓂᒡᓘᓐᓃᑦ ᓄᑖᒥᒃ ᐃᓂᒃᓴᒥᒃ ᓴᖅᑭᑎᑦᑎᔪᖃᔾᔮᙱᑦᑐᖅ"
 
 #: classes/Modules/Cleanup/Login.php:144
 msgid "Canadian Digital Service"
-msgstr ""
+msgstr "ᑲᓇᑕᒥ ᖃᕋᓴᐅᔭᒃᑯᑦ ᐱᔨᑦᑎᕋᐅᑏᑦ"
 
 #: classes/Modules/Cleanup/Menus.php:155
 msgid "Notify API Settings"
-msgstr ""
+msgstr "ᖃᐅᔨᒃᑲᐃᓂᕐᒥᑦ API ᐋᖅᑭᑦᓯᒪᓂᖏᓐᓂᑦ"
 
 #: classes/Modules/Cleanup/Menus.php:156
 #: classes/Modules/Site/SiteSettings.php:48
 #: classes/Modules/Site/SiteSettings.php:49
 #: classes/Modules/Site/SiteSettings.php:60
 msgid "Site Settings"
-msgstr ""
+msgstr "ᐃᓂᒋᔭᐅᔫᑉ ᐋᖅᑭᒃᓯᒪᓂᖓ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:23
 #: classes/Modules/Cleanup/PostsToArticles.php:34
 msgid "Articles"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᓂᕆᔭᐅᔪᑦ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:24
 #: classes/Modules/Cleanup/PostsToArticles.php:28
 #: classes/Modules/Cleanup/PostsToArticles.php:35
 msgid "Article"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᓂᓕᒃ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:25
 #: classes/Modules/Cleanup/PostsToArticles.php:26
 msgid "Add Article"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᓂᖓ ᐃᓚᓗᒍ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:27
 msgid "Edit Article"
-msgstr ""
+msgstr "ᐋᖅᑭᒋᐊᖅᓯᓂᖅ ᑎᑎᕋᖅᓯᒪᓂᖓᓂᒃ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:29
 msgid "View Article"
-msgstr ""
+msgstr "ᑕᑯᓗᒍ ᑎᑎᕋᖅᓯᒪᓂᖓ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:30
 msgid "Search Articles"
-msgstr ""
+msgstr "ᕿᓂᕐᓂᖅ ᑎᑎᕋᖅᓯᒪᔪᓂᑦ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:31
 msgid "No Articles found"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᒥᑦ ᓇᓂᓯᔪᖃᙱᑦᑐᖅ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:32
 msgid "No Articles found in Trash"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᑦ ᓇᓂᔭᐅᙱᑦᑐᑦ ᐊᒃᑕᑰᓯᕝᕕᖕᓂ"
 
 #: classes/Modules/Cleanup/PostsToArticles.php:33
 msgid "All Articles"
-msgstr ""
+msgstr "GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᓂᕆᔭᐅᔪᑦ"
 
 #: classes/Modules/Cleanup/Profile.php:167
 msgid "Unsafe HTML permissions"
-msgstr ""
+msgstr "ᐊᑦᑕᕐᓇᖅᑐᑦ HTML−ᒧᑦ ᐊᖏᖅᑕᐅᔪᑦ"
 
 #: classes/Modules/Cleanup/Profile.php:181
 msgid "Unsafe HTML"
-msgstr ""
+msgstr "ᐊᑦᑕᕐᓇᖅᑐᖅ HTML"
 
 #: classes/Modules/Cleanup/Profile.php:186
 msgid "Allow iFrames"
-msgstr ""
+msgstr "iFrames-ᓂᒃ ᐱᕕᖃᖅᑎᓪᓗᒋᑦ"
 
 #: classes/Modules/DBInsights/DBInsights.php:146
 msgid "not found"
-msgstr ""
+msgstr "ᓇᓂᔭᐅᙱᑦᑐᖅ"
 
 #: classes/Modules/DBInsights/DBInsights.php:180
 #: classes/Modules/DBInsights/DBInsights.php:186
 msgid "Alpha"
-msgstr ""
+msgstr "ᐋᓪᐸ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:80
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:60
 msgid "(Step 2 of 2)"
-msgstr ""
+msgstr "(ᐱᓕᕆᐊᒃᓴᖅ 2 2−ᓂᑦ)"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:83
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:85
 msgid "Full name"
-msgstr ""
+msgstr "ᐊᑎᓕᒫᖏᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:84
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:88
 #: build/index.js:1025
 #: build/index.js:934
 msgid "Email"
-msgstr ""
+msgstr "ᐃᕐᖐᓐᓈᖅᑕᐅᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:85
 msgid "Department"
-msgstr ""
+msgstr "ᐱᓕᕆᕝᕕᒃ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:92
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:115
 msgid "Send a copy to your email."
-msgstr ""
+msgstr "ᐊᔾᔨᖓᓂᒃ ᓇᒃᓯᐅᔾᔨᓗᑎᑦ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᖕᓄᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:97
 msgid "Submit"
-msgstr ""
+msgstr "ᑐᓂᓯᓂᖅ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:113
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:136
 msgid "(Step 1 of 2)"
-msgstr ""
+msgstr "(ᐱᓕᕆᐊᒃᓴᖅ 2 2−ᓂᑦ)"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:124
 msgid "Goal of your message"
-msgstr ""
+msgstr "ᑐᕌᕆᔭᖓ ᑐᓴᖅᑕᐅᖁᔭᕕᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:127
 msgid "Your answer helps us make sure your message gets to the right people."
-msgstr ""
+msgstr "ᑭᐅᔾᔪᑎᒋᔭᐃᑦ ᐃᑲᔪᖅᑐᖅ ᐅᕙᑦᑎᓐᓄᑦ ᑐᓴᖅᑕᐅᖁᔭᐃᑦ ᓈᒻᒪᓛᓄᑦ ᐃᓄᖕᓄᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:141
 msgid "Ask a question."
-msgstr ""
+msgstr "ᐊᐱᕆᓗᑎᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:147
 msgid "Get technical support."
-msgstr ""
+msgstr "ᐱᓕᕆᔾᔪᑎᓄᑦ ᐃᑲᔪᖅᑕᐅᒋᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:153
 msgid "Give feedback."
-msgstr ""
+msgstr "ᐃᓱᒪᒋᔭᒥᓂᒃ ᑐᓴᖅᑎᑦᑎᓗᑎᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:159
 msgid "Other"
-msgstr ""
+msgstr "ᐊᓯᖏᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:170
 msgid "What are you thinking about using GC Articles for? (optional)"
-msgstr ""
+msgstr "ᖃᓄᖅ ᐃᓱᒪᒋᔭᖃᖅᐱᑦ ᐊᑐᕆᐊᒃᓴᖅ GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᓕᖅᑎᑕᐅᓯᒪᔪᓂᒃ? (ᐊᑐᕈᓐᓇᖅᑐᖅ)"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:173
 #: classes/Modules/Forms/Contact/ContactForm.php:224
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:175
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:225
 msgid "We use this information to improve GC Articles."
-msgstr ""
+msgstr "ᑖᒃᑯᐊ ᑐᑭᓯᒋᐊᒐᒃᓴᑦ ᐊᑐᖃᑦᑕᖅᑕᕗᑦ ᐱᐅᓯᒋᐊᕈᑎᒋᓇᓱᒃᖢᒋᑦ GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:181
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:183
 msgid "Blog."
-msgstr ""
+msgstr "Blog."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:187
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:189
 msgid "Newsletter archive with emailing to a subscriber list."
-msgstr ""
+msgstr "ᑐᓴᒐᒃᓴᑦ ᑐᖅᑯᖅᑕᐅᓯᒪᔪᑦ ᐃᕐᖐᓐᓈᖅᑕᐅᒃᑯᑦ ᑎᑎᕋᕐᓗᑎᒃ ᐱᑖᖅᑎᑦᑎᔨᓄᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:193
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:195
 msgid "Website."
-msgstr ""
+msgstr "ᐃᑭᐊᖅᑭᕕᒃ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:199
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:201
 msgid "Internal website."
-msgstr ""
+msgstr "ᐃᓗᐊᓂ ᐃᑭᐊᖅᑭᕕᒃ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:205
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:207
 msgid "Something else."
-msgstr ""
+msgstr "ᑭᓱᑭᐊᖅ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:213
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:214
 msgid "Other usage"
-msgstr ""
+msgstr "ᐊᓯᖏᑦ ᐊᑐᖅᑕᐅᔪᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:221
 msgid "Who are the target audiences you’re thinking about? (optional)"
-msgstr ""
+msgstr "ᑭᒃᑯᑦ ᑐᕌᕐᕕᐅᕙᑦ ᓈᓚᒃᑎᓄᑦ ᐃᓱᒪᒋᔭᑎᑦ? (ᐊᑐᕈᓐᓇᖅᑐᖅ)"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:232
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:233
 msgid "People who use your programs and services."
-msgstr ""
+msgstr "ᐃᓄᐃᑦ ᐊᑐᖅᐸᒃᑐᑦ ᐱᓕᕆᐊᔅᓯᓐᓂᒃ ᐊᒻᒪ ᐱᔨᑦᑎᕋᐅᑎᓂᒃ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:238
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:239
 msgid "General public."
-msgstr ""
+msgstr "ᑭᒃᑯᑐᐃᓐᓇᐃᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:244
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:245
 msgid "Subscribers."
-msgstr ""
+msgstr "ᐱᑖᖅᑎᑦᑎᔨᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:250
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:251
 msgid "Internal employees and/or community volunteers."
-msgstr ""
+msgstr "ᐃᖅᑲᓇᐃᔭᕐᕕᐅᑉ ᐃᓗᐊᓂ ᐃᖅᑲᓇᐃᔭᖅᑏᑦ ᐊᒻᒪ/ᐅᕝᕙᓘᓐᓃᑦ ᓄᓇᓕᖕᓂ ᐃᑲᔪᖅᑏᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:256
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:257
 msgid "Other people."
-msgstr ""
+msgstr "ᐊᓯᖏᑦ ᐃᓄᐃᑦ."
 
 #: classes/Modules/Forms/Contact/ContactForm.php:263
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:264
 msgid "Other target audience"
-msgstr ""
+msgstr "ᐊᓯᖏᑦ ᑐᕌᕐᕕᐅᔪᑦ ᓈᓚᒃᑎᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:268
 msgid "Your message"
-msgstr ""
+msgstr "ᐅᖃᐅᓯᕆᔭᐃᑦ"
 
 #: classes/Modules/Forms/Contact/ContactForm.php:279
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:286
 msgid "Next"
-msgstr ""
+msgstr "ᑭᖑᓪᓕᖅ"
 
 #: classes/Modules/Forms/Contact/Setup.php:51
 #: classes/Modules/Forms/RequestSite/Setup.php:64
 #: classes/Modules/Forms/Subscribe/Subscribe.php:100
 #: classes/Modules/Forms/Utils.php:161
 msgid "Please complete the required field(s) to continue"
-msgstr ""
+msgstr "ᐱᔭᕇᕐᓗᒍ ᐱᔭᕆᐊᓕᒃ ᐃᓂ(ᑦ) ᑲᔪᓯᓗᓂ"
 
 #: classes/Modules/Forms/Contact/Setup.php:124
 #: classes/Modules/Forms/RequestSite/Setup.php:103
 msgid "Requester:"
-msgstr ""
+msgstr "ᑐᒃᓯᕋᖅᑐᖅ:"
 
 #: classes/Modules/Forms/Messenger.php:37
 msgid "Thanks for the message"
-msgstr ""
+msgstr "ᖁᔭᓐᓇᒦᒃ ᑐᓴᖅᑎᑦᑎᒐᕕᑦ"
 
 #: classes/Modules/Forms/Messenger.php:40
 msgid "Error sending email"
-msgstr ""
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ ᐃᕐᖐᓐᓈᖅᑕᐅᒃᑯᑦ ᓇᒃᓯᐅᔾᔨᔪᖅ"
 
 #: classes/Modules/Forms/Messenger.php:61
 msgid "ZenDesk client error"
-msgstr ""
+msgstr "Zenᓴᕙᒪᓕᕆᔨᒃᑯᑦ ᑕᒻᒪᖅᑐᖅ"
 
 #: classes/Modules/Forms/Messenger.php:108
 #: build/index.js:80
 #: build/index.js:61
 msgid "Success"
-msgstr ""
+msgstr "ᑲᔪᓯᓂᖃᑦᑎᐊᕐᓂᖅ"
 
 #: classes/Modules/Forms/Messenger.php:110
 #: classes/Modules/Forms/Subscribe/Subscribe.php:46
@@ -379,399 +381,415 @@ msgstr ""
 #: build/index.js:1006
 #: build/index.js:915
 msgid "Internal server error"
-msgstr ""
+msgstr "ᐃᓗᐊᓂᑦ ᐃᑭᐊᖅᑭᑎᑦᑎᕕᒃ ᑕᒻᒪᖅᑐᖅ"
 
 #: classes/Modules/Forms/Messenger.php:113
 msgid "ZenDesk server error"
-msgstr ""
+msgstr "ZenDesk ᐃᑭᐊᖅᑭᑎᑦᑎᕕᒃ ᑕᒻᒪᖅᓯᒪᔪᖅ"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:59
 msgid "Site administrator details."
-msgstr ""
+msgstr "ᐃᓂᒋᔭᖓᓂ ᐊᐅᓚᑦᑎᔨᐅᑉ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖏᑦ."
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:91
 msgid "Job title or role"
-msgstr ""
+msgstr "ᐃᖅᑲᓇᐃᔮᖓᑕ ᑕᐃᒎᓯᖓ ᐱᓕᕆᐊᖏᓪᓘᓐᓃᑦ"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:94
 msgid "Department or agency"
-msgstr ""
+msgstr "ᐱᓕᕆᕝᕕᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑐᑦᑕᕐᕕᒃ"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:95
 msgid "GC Articles is only for government employees."
-msgstr ""
+msgstr "GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᓂᖏᑦ ᒐᕙᒪᒃᑯᑦ ᐃᖅᑲᓇᐃᔭᖅᑎᖏᓄᑐᐊᖅ ᑐᕌᖓᕗᑦ."
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:102
 msgid "Reminder: Only use GC Articles for information that is not sensitive and can be shared publicly."
 msgstr ""
+"ᐃᖅᑲᐃᑎᑦᑎᔾᔪᑎ: ᐊᑐᖅᑕᑐᐊᕆᓗᒋᑦ GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᑐᓴᐅᒪᔾᔪᑎᒃᓴᓄᑦ ᐊᒃᑐᖅᑕᐅᓴᕋᐃᙱᑦᑐᓄᑦ "
+"ᐊᒥᖅᑳᕈᑕᐅᔪᓐᓇᕐᖢᑎᒃᓗ ᐃᓄᖕᓄᑦ."
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:105
 msgid "Make sure you’re allowed to publish this information on behalf of the Government of Canada."
-msgstr ""
+msgstr "ᑖᒃᑯᐊ ᑎᑎᕋᖅᓯᒪᔪᑦ ᓴᖅᑭᑕᐅᔪᓐᓇᖅᑎᓐᓂᐊᖅᐸᑎᑦ ᑲᓇᑕᐅᑉ ᒐᕙᒪᒃᑯᖏᑦ ᑭᒡᒐᖅᑐᖅᖢᒋᑦ."
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:120
 msgid "Request site"
-msgstr ""
+msgstr "ᑐᑦᓯᕋᕐᓂᖅ ᐃᓂᐅᔪᒥᑦ"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:135
 msgid "Tell us about your site. "
-msgstr ""
+msgstr "ᐅᖃᐅᑎᑎᒍᑦ ᐃᑭᐊᖅᑭᕕᒋᔭᕕᑦ ᒥᒃᓵᓄᑦ. "
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:148
 msgid "English title of your site"
-msgstr ""
+msgstr "ᖃᓪᓗᓈᑎᑐᑦ ᑕᐃᒎᓯᖓ ᐃᓂᒋᔭᕕᑦ"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:151
 msgid "This title will appear at the top of your site. You can change this later."
-msgstr ""
+msgstr "ᑖᓐᓇ ᑕᐃᔭᐅᓂᖓ ᓴᖅᑭᓐᓂᐊᖅᐳᖅ ᖁᓛᓂ ᐃᓂᕕᑦ. ᑕᒪᓐᓇ ᐊᓯᔾᔨᕈᓐᓇᖅᑕᐃᑦ ᐅᐊᑦᑎᐊᕈ."
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:163
 msgid "Enter a title to preview your URL"
-msgstr ""
+msgstr "ᑎᑎᕐᓗᒍ ᑕᐃᒎᓯᖅ ᕿᒥᕐᕈᓂᐊᕐᓗᒍ URL"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:164
 msgid "Your URL preview:"
-msgstr ""
+msgstr "URL−ᒧᑦ ᕿᒥᕐᕈᐊᒃᑲᓐᓂᕐᓂᖅ:"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:172
 msgid "What will you use your site for?"
-msgstr ""
+msgstr "ᑭᓱᒧᑦ ᐊᑐᕐᓂᐊᖅᐱᐅᒃ ᐃᓂᒋᔭᑦ?"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:222
 msgid "Who are the target audiences for your site?"
-msgstr ""
+msgstr "ᑭᒃᑯᑦ ᑐᕌᕐᕕᐅᕙᑦ ᓈᓚᒃᑎᓄᑦ ᐃᑭᐊᖅᑭᕕᖕᓄᑦ?"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:271
 msgid "When do you plan to make your site public?"
-msgstr ""
+msgstr "ᖃᖓ ᐸᕐᓇᒃᐱᓯ ᑕᖅᑲᐅᖓ ᐃᓄᓐᓄᑦ ᑐᓴᖅᑕᐅᖁᓪᓗᒍ?"
 
 #: classes/Modules/Forms/RequestSite/RequestSiteForm.php:274
 msgid "We look for sites that will launch in the next 2 months. Sites that linger for longer than 2 months without being made public reduce our ranking in search engines."
 msgstr ""
+"ᕿᓂᖅᐳᒍᑦ ᐃᓂᓂᒃ ᓴᖅᑭᑎᑕᐅᓂᐊᖅᑐᓂᒃ ᑕᖅᑮᖕᓂᒃᖕᓂᒃ 2−ᓂᒃ. ᓄᓇᐃᑦ ᑕᖅᑭᑦ 2 ᐅᖓᑖᓄᑦ ᐃᓄᖕᓄᑦ "
+"ᑕᑯᔭᐅᔪᓐᓇᙱᖦᖢᑎᒃ ᒥᒃᖠᒋᐊᕈᑕᐅᕙᓚᐅᖅᑐᑦ ᐊᐅᓚᐅᑎᓂᒃ ᕿᓂᖅᑐᓂᒃ."
 
 #: classes/Modules/Forms/RequestSite/Setup.php:95
 msgid "No name specified"
-msgstr ""
+msgstr "ᐊᑎᖓ ᓇᓗᓇᐃᖅᓯᒪᙱᑦᑐᖅ"
 
 #: classes/Modules/Forms/RequestSite/Setup.php:96
 msgid "Request a site:"
-msgstr ""
+msgstr "ᐃᓂᒃᓴᖅᑖᕈᒪᓗᑎᑦ:"
 
 #: classes/Modules/Forms/Subscribe/Subscribe.php:81
 msgid "Thanks for subscribing"
-msgstr ""
+msgstr "ᖁᔭᓐᓇᒦᒃ ᑎᑎᕋᕈᓐᓇᕋᕕᑦ"
 
 #: classes/Modules/Forms/Subscribe/Subscribe.php:111
 msgid "Unknown subscription"
-msgstr ""
+msgstr "ᖃᐅᔨᒪᔭᐅᙱᑦᑐᖅ ᐃᓚᒋᔭᐅᔾᔪᑎ"
 
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:26
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "Subscribe"
-msgstr ""
+msgstr "ᐱᓇᔪᖃᑕᐅᔪᓐᓇᖅᑐᑦ"
 
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:48
 msgid "Notify API key"
-msgstr ""
+msgstr "ᖃᐅᔨᒃᑲᕐᓗᒋᑦ API−ᒧᑦ ᐱᓪᓗᐊᑕᐃᑦ"
 
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:49
 msgid "Subscription template ID"
-msgstr ""
+msgstr "ᐃᓚᒋᔭᐅᔾᔪᑎᐅᑉ ᑎᑎᕋᖅᓯᒪᕙᒌᕐᓂᖓ ᓇᓗᓇᐃᒃᑯᑕᖅ"
 
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:54
 msgid "You must configure your %s. Visit <a href=\"%s\">%s</a>."
-msgstr ""
+msgstr "ᐋᖅᑭᑦᓯᒋᐊᖃᖅᑐᑎᑦ %s. ᐅᐸᓪᓗᑎᑦ <a href=\"%s\">%s</a>."
 
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:58
 msgid "You must select a list from '<strong>Block</strong>' settings 👉"
-msgstr ""
+msgstr "ᓂᕈᐊᕆᐊᖃᖅᐳᑎᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐅᕙᙵᑦ '<strong>Block</strong>ᐋᖅᑭᒃᓯᒪᓂᕆᔭᖏᑦ 👉"
 
 #: classes/Modules/Forms/Subscribe/SubscriptionForm.php:100
 msgid "Privacy Policy"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔭᕆᐊᖃᙱᑦᑐᓄᑦ ᐊᑐᐊᒐᖅ"
 
 #: classes/Modules/Forms/Utils.php:13
 msgid "400 Bad Request"
-msgstr ""
+msgstr "400 ᑐᒃᓯᕋᐅᑎᑲᒻᒪᒃ"
 
 #: classes/Modules/Markdown/Markdown.php:55
 msgid "Page content as markdown"
-msgstr ""
+msgstr "ᒪᒃᐱᖅᑐᒐᐅᑉ ᐃᓗᓕᖏᑦ ᓇᓗᓇᐃᒃᑯᑦᑎᖅᑕᐅᓂᖏᑦ"
 
 #: classes/Modules/Markdown/Markdown.php:66
 msgid "Post content as markdown"
-msgstr ""
+msgstr "ᓴᖅᑭᓪᓗᒍ ᐃᓗᓕᖏᑦ ᓇᓗᓇᐃᒃᑯᑦᑎᖅᑕᐅᓗᑎᒃ"
 
 #: classes/Modules/Notify/NotifySettings.php:52
 #: classes/Modules/Notify/NotifySettings.php:53
 #: classes/Modules/Notify/NotifySettings.php:119
 msgid "API Settings"
-msgstr ""
+msgstr "API ᐋᖅᑭᒃᓯᒪᓂᖓ"
 
 #: classes/Modules/Notify/NotifySettings.php:126
 msgid "API key"
-msgstr ""
+msgstr "API−ᒧᑦ ᑮᖏᑦ"
 
 #: classes/Modules/Notify/NotifySettings.php:137
 msgid "Subscribe template ID"
-msgstr ""
+msgstr "ᐱᓇᔪᖃᑕᐅᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ"
 
 #: classes/Modules/Notify/NotifySettings.php:148
 msgid "Message template ID"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ"
 
 #: classes/Modules/Notify/NotifySettings.php:168
 msgid "<span class=\"hidden_keys\" id=\"%1$s\">Current value: <span class=\"sr-only\">Starts with </span>%2$s<span aria-hidden=\"true\"> … </span><span class=\"sr-only\"> and ends with</span>%3$s</span>"
 msgstr ""
+"<span class=\"hidden_keys\" id=\"%1$s\"> ᒫᓐᓇ ᐊᑭᖓ: <span class=\"sr-only\"> "
+"ᐱᒋᐊᖅᑐᖅ </span>%2$s<span aria-hidden=\"true\"> ... </span> <span class=\"sr-"
+"only\"> ᐃᓱᓕᓪᓗᓂᓗ </span>%3$s</span>"
 
 #: classes/Modules/Notify/NotifySettings.php:192
 msgid "Read <a href=\"https://documentation.notification.canada.ca/en/keys.html\" target=\"_blank\">API keys</a> for details."
 msgstr ""
+"ᐅᖃᓕᒫᕐᓗᒍ <a href=\"https://documentation.notification.canada.ca/en/keys.html\""
+" target=\"_blank\">API ᑮᖏᑦ </a> ᑐᑭᓯᒋᐊᒃᑲᓐᓂᕈᒪᒍᕕᑦ."
 
 #: classes/Modules/Notify/NotifySettings.php:198
 msgid "Enter your API Key"
-msgstr ""
+msgstr "ᐃᓕᓗᒋᑦ API−ᒧᑦ ᑮᖏᑦ"
 
 #: classes/Modules/Notify/NotifySettings.php:198
 msgid "See example key format."
-msgstr ""
+msgstr "ᑕᑯᓗᒍ ᐆᒃᑑᑎᓪᓗᐊᑕᖓ ᐋᖅᑭᒃᓯᒪᓂᖓ."
 
 #: classes/Modules/Notify/NotifySettings.php:208
 msgid "Read the <a href=\"https://notification.canada.ca/format\" target=\"_blank\">Email formatting guide</a> for details."
 msgstr ""
+"ᐅᖃᓕᒫᕐᓗᒍ <a href=\"https://notification.canada.ca/format\" target=\"_blank\"> "
+"ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒧᑦ ᐋᖅᑭᒃᓯᒪᓂᖓᑕ ᒪᓕᒐᒃᓴᖓ </a> ᓇᓗᓇᐃᔭᐅᑎᓄᑦ."
 
 #: classes/Modules/Notify/NotifySettings.php:214
 msgid "Enter your message template ID"
-msgstr ""
+msgstr "ᑎᑎᕐᓗᒍ ᑐᓴᖅᑕᐅᔪᒃᓴᖅ"
 
 #: classes/Modules/Notify/NotifySettings.php:214
 #: classes/Modules/Notify/NotifySettings.php:229
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "See example template ID format."
-msgstr ""
+msgstr "ᑕᑯᓗᒍ ᐆᒃᑑᑎ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᓇᓗᓇᐃᒃᑯᑕᐅᑉ ᐋᖅᑭᒃᓯᒪᓂᖓ."
 
 #: classes/Modules/Releases/Releases.php:59
 msgid "Something went wrong"
-msgstr ""
+msgstr "ᑭᓱᑭᐊᖅ ᑕᒻᒪᖅᑐᖅ"
 
 #: classes/Modules/Site/SiteSettings.php:86
 msgid "Maintenance mode"
-msgstr ""
+msgstr "ᐋᖅᑭᐅᒪᑎᑦᑎᓂᖅ"
 
 #: classes/Modules/Site/SiteSettings.php:94
 msgid "Site configuration"
-msgstr ""
+msgstr "ᐃᓂᒋᔭᐅᔫᑉ ᐋᖅᑭᒃᓯᒪᓂᖓ"
 
 #: classes/Modules/Site/SiteSettings.php:219
 msgid "Site Name"
-msgstr ""
+msgstr "ᐃᓂᒋᔭᐅᔫᑉ ᐊᑎᖓ"
 
 #: classes/Modules/Site/SiteSettings.php:230
 msgid "Site Description"
-msgstr ""
+msgstr "ᐃᓂᒋᔭᐅᔫᑉ ᐅᓂᒃᑲᐅᓯᐅᓂᖓ"
 
 #: classes/Modules/Site/SiteSettings.php:241
 msgid "Home Page"
-msgstr ""
+msgstr "ᒪᒃᐱᖅᑐᒐᖅ ᒪᒃᐱᖅᑐᒐᖅ"
 
 #: classes/Modules/Site/SiteSettings.php:253
 msgid "Activate maintenance mode"
-msgstr ""
+msgstr "ᐊᐅᓚᔾᔭᒋᐊᕐᓗᒋᑦ ᐋᖅᑭᐅᒪᔾᔪᑎᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:264
 msgid "Maintenance Page"
-msgstr ""
+msgstr "ᐋᖅᑭᐅᒪᑎᑦᑎᓂᖅ ᒪᒃᐱᖅᑐᒐᖅ"
 
 #: classes/Modules/Site/SiteSettings.php:275
 msgid "Search engine visibility"
-msgstr ""
+msgstr "ᐊᐅᓚᐅᑎᐅᑉ ᑕᑯᒃᓴᐅᓂᖓ ᕿᓂᖅᑕᐅᓗᓂ"
 
 #: classes/Modules/Site/SiteSettings.php:287
 msgid "Canada.ca top menu"
-msgstr ""
+msgstr "Canada.ca ᖁᓛᓂ ᓂᕆᔭᒃᓴᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:298
 msgid "Search bar"
-msgstr ""
+msgstr "ᕿᓂᕐᕕᒃ"
 
 #: classes/Modules/Site/SiteSettings.php:315
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "ᓂᐊᖂᔭᐃᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:326
 msgid "Where should the Canada.ca header link to?"
-msgstr ""
+msgstr "Canada.ca ᓂᐊᖁᖓ ᓇᒧᑦ ᐊᑦᑕᑕᕆᐊᖃᖅᐸ?"
 
 #: classes/Modules/Site/SiteSettings.php:345
 msgid "Analytics id"
-msgstr ""
+msgstr "ᖃᐅᔨᓴᕈᑎᐅᑉ ᓇᓗᓇᐃᒃᑯᑕᖓ"
 
 #: classes/Modules/Site/SiteSettings.php:362
 msgid "Turn on"
-msgstr ""
+msgstr "ᐃᑭᓪᓗᒍ"
 
 #: classes/Modules/Site/SiteSettings.php:367
 msgid "Turn off"
-msgstr ""
+msgstr "ᖃᒥᓪᓗᒍ"
 
 #: classes/Modules/Site/SiteSettings.php:378
 msgid "Show Canada.ca menu"
-msgstr ""
+msgstr "ᑕᑯᑎᓪᓗᒍ Canada.ca ᓂᕆᔭᒃᓴᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:383
 msgid "Hide Canada.ca menu"
-msgstr ""
+msgstr "ᐃᔨᖅᓯᒪᑎᓪᓗᒍ Canada.ca ᓂᕆᔭᒃᓴᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:394
 msgid "Show the search bar"
-msgstr ""
+msgstr "ᑕᑯᑎᓪᓗᒍ ᕿᓂᕐᕕᒃ"
 
 #: classes/Modules/Site/SiteSettings.php:399
 msgid "Hide the search bar"
-msgstr ""
+msgstr "ᐃᔨᖅᓯᒪᓗᒍ ᕿᓂᕐᕕᒃ"
 
 #: classes/Modules/Site/SiteSettings.php:410
 msgid "Show breadcrumbs"
-msgstr ""
+msgstr "ᓂᐊᖂᔭᐃᑦ ᑕᑯᒃᓴᐅᑎᓪᓗᒋᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:415
 msgid "Hide breadcrumbs"
-msgstr ""
+msgstr "ᓂᐊᖂᔭᐃᑦ ᓂᐊᖂᔭᐃᑦ"
 
 #: classes/Modules/Site/SiteSettings.php:496
 msgid "In maintenance mode, pages and articles you publish will <strong>not</strong> be publicly visible."
 msgstr ""
+"ᐱᖁᑎᓂᒃ ᐋᖅᑭᐅᒪᑎᑦᑎᓂᕐᒥ, ᒪᒃᐱᖅᑐᒐᑦ ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᔪᑦ ᓴᖅᑭᑎᑕᑎᑦ <strong> </strong> "
+"ᑭᒃᑯᑐᐃᓐᓇᕐᓄᑦ ᑕᑯᒃᓴᐅᔾᔮᙱᑦᑐᑦ."
 
 #: classes/Modules/Site/SiteSettings.php:501
 msgid "Logged-in users will be able to create and view content, but all other visitors will be redirected to the maintenance page."
 msgstr ""
+"ᖃᕆᑕᐅᔭᒥ ᐊᑐᖅᑏᑦ ᓴᖅᑭᑦᑎᔪᓐᓇᕐᓂᐊᖅᑐᑦ ᕿᒥᕐᕈᔪᓐᓇᕐᓗᑎᒡᓗ ᐃᓗᓕᖏᓐᓂᒃ, ᑭᓯᐊᓂ ᐊᓯᓕᒫᖏᑦ ᐳᓛᖅᑐᑦ "
+"ᑐᕌᖅᑎᑕᐅᖔᕐᓂᐊᖅᑐᑦ ᐋᖅᑭᐅᒪᔾᔪᑎᓄᑦ ᒪᒃᐱᖅᑐᒐᕐᒧᑦ."
 
 #: classes/Modules/Site/SiteSetup.php:123
 msgid "Finish Site Setup"
-msgstr ""
+msgstr "ᐱᐊᓂᒡᕕᒃᓴᖓ ᐋᖅᑭᒃᑕᐅᔪᖅ"
 
 #: classes/Modules/Site/SiteSetup.php:124
 msgid "You’re almost done.  Let’s create some pages and default settings."
-msgstr ""
+msgstr "ᐱᔭᕇᓕᖅᐳᑎᑦ.  ᐋᖅᑭᒃᓯᓚᐅᖅᑕ ᐃᓚᖏᓐᓂᒃ ᒪᒃᐱᖅᑐᒐᕐᓂᒃ ᐊᑐᙱᑦᑐᓐᓇᖅᑐᓂᒡᓗ ᐋᖅᑭᒃᓯᒪᔪᓂᒃ."
 
 #: classes/Modules/Site/SiteStatus.php:39
 msgid "Site Availability"
-msgstr ""
+msgstr "ᐃᓂᒃᓴᐅᑉ ᐊᑐᐃᓐᓇᐅᓂᖓ"
 
 #: classes/Modules/Site/SiteStatus.php:40
 msgid "Live"
-msgstr ""
+msgstr "ᐃᓅᓗᑎᑦ"
 
 #: classes/Modules/Site/SiteStatus.php:42
 msgid "Maintenance"
-msgstr ""
+msgstr "ᐋᖅᑭᐅᒪᑎᑦᑎᓂᖅ"
 
 #: classes/Modules/Site/SiteStatus.php:50
 msgid "Search Engine Visibility"
-msgstr ""
+msgstr "ᐊᐅᓚᐅᑎᐅᑉ ᑕᑯᒃᓴᐅᓂᖓ ᕿᓂᖅᑕᐅᓗᓂ"
 
 #: classes/Modules/Site/SiteStatus.php:51
 msgid "On"
-msgstr ""
+msgstr "ᐅᑯᓇᓂ"
 
 #: classes/Modules/Site/SiteStatus.php:53
 msgid "Off"
-msgstr ""
+msgstr "ᖃᒥᓪᓗᒍ"
 
 #: classes/Modules/Site/SiteStatus.php:64
 msgid "Update your <a href=\"%s\">site settings</a>."
-msgstr ""
+msgstr "ᓄᑖᙳᕆᐊᖅᑎᓪᓗᒍ <a href=\"%s\">ᐃᓂᖓᑕ ᐋᖅᑭᒃᓯᒪᓂᖓ </a>."
 
 #: classes/Modules/TwoFactor/TwoFactor.php:42
 msgid "Two factor authentication"
-msgstr ""
+msgstr "ᒪᕐᕉᒃ ᐱᔾᔪᑕᐅᔫᒃ ᓱᓕᓂᕋᐃᓂᕐᒧᑦ"
 
 #: classes/Modules/TwoFactor/TwoFactor.php:53
 #: build/index.js:81
 #: build/index.js:62
 msgid "Warning"
-msgstr ""
+msgstr "ᐃᓂᖅᑎᕆᓂᖅ"
 
 #: classes/Modules/TwoFactor/TwoFactor.php:56
 msgid "This can be configured on your <a href=\"%s\">User Profile</a>."
-msgstr ""
+msgstr "ᑖᓐᓇ ᐋᖅᑭᒃᓯᒪᔪᓐᓇᖅᑐᖅ <a href=\"%s\"> ᐊᑐᖅᑎᐅᑉ ᖃᓄᐃᓕᖓᓂᖓ </a>."
 
 #: classes/Modules/Users/EmailDomains.php:93
 msgid "You can’t use this email domain for registration."
-msgstr ""
+msgstr "ᑖᓐᓇ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᐊᑐᕈᓐᓇᙱᑕᑦ ᐊᑎᓕᐅᖅᑕᐅᖃᑕᐅᓂᕐᒧᑦ."
 
 #: classes/Modules/Users/Users.php:63
 msgid "This role has complete control over the articles site and can perform all other roles actions"
 msgstr ""
+"ᑖᓐᓇ ᐃᖅᑲᓇᐃᔮᖅ ᐊᐅᓚᑦᑎᑦᑎᐊᖅᓯᒪᔪᖅ ᑎᑎᕋᖅᓯᒪᔪᓂᑦ ᐃᑭᐊᖅᑭᕕᖕᒥᑦ ᐱᓕᕆᔪᓐᓇᖅᖢᓂᓗ ᐊᓯᓕᒫᖏᓐᓂᑦ ᐱᓕᕆᐊᒃᓴᓂᑦ"
 
 #: classes/Modules/Users/Users.php:67
 msgid "This role allows the user to write and publish articles."
-msgstr ""
+msgstr "ᑖᓐᓇ ᐃᖅᑲᓇᐃᔮᖅ ᐱᕕᖃᖅᑎᑦᓯᔪᖅ ᐊᑐᖅᑎᒥᑦ ᑎᑎᕋᕐᓂᕐᒥᑦ ᓴᖅᑭᑎᑦᓯᓂᕐᒥᓪᓗ ᑎᑎᕋᖅᓯᒪᔪᓂᑦ."
 
 #: classes/Modules/Users/Users.php:72
 msgid "This role allows the user to draft articles but not to publish them."
-msgstr ""
+msgstr "ᑖᓐᓇ ᐃᖅᑲᓇᐃᔮᖅ ᐱᕕᖃᖅᑎᑦᓯᔪᖅ ᐊᑐᖅᑎᒥᑦ ᑎᑎᕋᖅᑕᐅᒋᐊᕐᖓᖅᑐᓂᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᑦ ᑭᓯᐊᓂ ᓴᖅᑭᑎᑦᓯᖏᓪᓗᓂ."
 
 #: classes/Modules/Users/Users.php:232
 #: classes/Modules/Users/Users.php:250
 msgid "Invitation to collaborate on GC Articles"
-msgstr ""
+msgstr "ᖃᐃᖁᔨᓂᖅ ᐱᓕᕆᖃᑎᖃᕐᓂᕐᒧᑦ GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᓐᓂᒃ"
 
 #: classes/Modules/Users/Users.php:233
 msgid "Someone has invited this email to collaborate on a GC Articles collection site."
-msgstr ""
+msgstr "ᑭᓇᑭᐊᖅ ᑐᙵᓱᒃᑎᑦᑎᓯᒪᔪᖅ ᑖᔅᓱᒥᖓ ᐃᕐᖐᓐᓈᕈᑎᒥᒃ ᐱᓕᕆᖃᑎᖃᕐᓗᓂ GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᓐᓂ ᐊᕝᕗᐃᕝᕕᖕᒥ."
 
 #: classes/Modules/Users/Users.php:234
 msgid "If this was a mistake, please ignore this email and the invitation will expire"
-msgstr ""
+msgstr "ᑕᒻᒪᕐᓂᖅᐸᑦ, ᑖᓐᓇ ᐃᕐᖐᓐᓈᕈᑎ ᓱᖁᑎᒋᙱᓪᓗᒍ ᐊᒻᒪ ᖃᐃᖁᔨᔾᔪᑎ ᐃᓱᓕᓐᓂᐊᖅᑐᖅ"
 
 #: classes/Modules/Users/Users.php:235
 msgid "To set your GC Articles account password, please visit the following address:"
-msgstr ""
+msgstr "ᐋᖅᑭᒃᓯᔪᒪᒍᕕᑦ GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᓂᓕᖕᓄᑦ ᐃᓯᕈᓐᓇᐅᑎᒥᒃ, ᐅᓇ ᑐᕌᕈᑎᖓ ᐅᐸᒡᓗᒍ:"
 
 #: classes/Modules/Users/Users.php:251
 msgid "Someone has invited this email to collaborate on a GC Articles — "
-msgstr ""
+msgstr "ᑭᓇᑭᐊᖅ ᑐᙵᓱᒃᑎᑦᑎᓯᒪᔪᖅ ᑖᔅᓱᒥᖓ ᐃᕐᖐᓐᓈᕈᑎᒥᒃ ᐱᓕᕆᖃᑎᒌᒃᓗᑎᒃ GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᓐᓂ − "
 
 #: classes/Modules/Users/Users.php:252
 msgid "To get started log in here: "
-msgstr ""
+msgstr "ᐱᒋᐊᕈᒪᓗᒍ ᐃᓯᕈᑎ ᐅᕙᓂ: "
 
 #: classes/Modules/Users/Users.php:337
 #: build/index.js:1061
 #: build/index.js:970
 msgid "Add user"
-msgstr ""
+msgstr "ᐊᑐᖅᑎᒧᑦ ᐃᓚᓗᒍ"
 
 #: classes/Modules/Users/Users.php:367
 msgid "You must enable JavaScript to view this page."
-msgstr ""
+msgstr "ᐊᔪᙱᑎᑦᑕᕆᐊᖃᖅᑕᑦ ᔮᕙᔅ ᕿᒥᕐᕈᓗᒍ ᑖᓐᓇ ᒪᒃᐱᒐᖅ."
 
 #: classes/Modules/Wpml/Wpml.php:119
 msgid "Post slug for English page."
-msgstr ""
+msgstr "ᓴᖅᑭᑎᓪᓗᒍ ᑲᑉᐳᑎᓯᒪᓂᖓ ᖃᓪᓗᓈᑎᑐᑦ ᒪᒃᐱᖅᑐᒐᖓᓄᑦ."
 
 #: classes/Modules/Wpml/Wpml.php:135
 msgid "Post slug for French page."
-msgstr ""
+msgstr "ᓴᖅᑭᑎᓪᓗᒍ ᑲᑉᐳᑎᓯᒪᓂᖓ ᐅᐃᕖᑎᑐᑦ ᒪᒃᐱᖅᑐᒐᖓᓄᑦ."
 
 #: classes/Modules/Wpml/Wpml.php:151
 msgid "ID for English page."
-msgstr ""
+msgstr "ᓇᓗᓇᐃᒃᑯᑕᖅ ᖃᓪᓗᓈᑎᑐᑦ ᒪᒃᐱᖅᑐᒐᕐᒧᑦ."
 
 #: classes/Modules/Wpml/Wpml.php:166
 msgid "ID for French page."
-msgstr ""
+msgstr "ᓇᓗᓇᐃᒃᑯᑕᖅ ᐅᐃᕖᑎᑐᑦ ᒪᒃᐱᖅᑐᒐᕐᒧᑦ."
 
 #: classes/Modules/Wpml/Wpml.php:182
 msgid "Language of page"
-msgstr ""
+msgstr "ᐅᖃᐅᓯᖅ ᒪᒃᐱᖅᑐᒐᖅ"
 
 #: build/index.js:18
 #: build/index.js:8
 msgid "Accordion"
-msgstr ""
+msgstr "ᐃᙱᕈᑦ"
 
 #: build/index.js:32
 #: build/index.js:112
@@ -780,467 +798,469 @@ msgstr ""
 #: build/index.js:93
 #: build/index.js:147
 msgid "Title"
-msgstr ""
+msgstr "ᑕᐃᒎᓯᐊ"
 
 #: build/index.js:75
 #: build/index.js:56
 msgid "Settings"
-msgstr ""
+msgstr "ᐋᖅᑭᒃᓯᒪᓂᖏᑦ"
 
 #: build/index.js:78
 #: build/index.js:59
 msgid "Alert Type"
-msgstr ""
+msgstr "ᑎᑦᑎᓇᑦᑑᑉ ᖃᓄᐃᑦᑑᓂᖓ"
 
 #: build/index.js:79
 #: build/index.js:60
 msgid "Info"
-msgstr ""
+msgstr "ᑐᑭᓯᒋᐊᕈᑎ"
 
 #: build/index.js:82
 #: build/index.js:63
 msgid "Danger"
-msgstr ""
+msgstr "ᐅᓗᕆᐊᓇᖅᑐᖅ"
 
 #: build/index.js:86
 #: build/index.js:67
 msgid "Alert"
-msgstr ""
+msgstr "ᐊᓘᑦ"
 
 #: build/index.js:116
 #: build/index.js:179
 #: build/index.js:97
 #: build/index.js:151
 msgid "Summary"
-msgstr ""
+msgstr "ᓇᐃᓈᖅᓯᒪᔪᖅ"
 
 #: build/index.js:156
 #: build/index.js:128
 msgid "Expander"
-msgstr ""
+msgstr "ᐅᐃᒍᐃᔪᖅ"
 
 #: build/index.js:243
 #: build/index.js:206
 msgid "Show “Read More”"
-msgstr ""
+msgstr "ᑕᑯᑎᓪᓗᒍ \"ᐅᖃᓕᒫᒃᑲᓐᓂᕆᑦ\""
 
 #: build/index.js:353
 #: build/index.js:307
 msgid "Latest Page"
-msgstr ""
+msgstr "ᒪᒃᐱᖅᑐᒐᐅᓵᖅᑐᖅ"
 
 #: build/index.js:355
 #: build/index.js:309
 msgid "Latest Article"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᑕᐅᓵᓚᐅᖅᑐᖅ"
 
 #: build/index.js:464
 #: build/index.js:409
 msgid " Tables exist from deleted sites"
-msgstr ""
+msgstr " ᑎᑎᕋᖅᓯᒪᔪᑦ ᐱᑕᖃᖅᐳᑦ ᐲᖅᑕᐅᓯᒪᔪᓂᑦ ᐃᓂᓂᑦ"
 
 #: build/index.js:641
 #: build/index.js:568
 msgid "Date"
-msgstr ""
+msgstr "ᐅᓪᓗᖅ"
 
 #: build/index.js:643
 #: build/index.js:570
 msgid "User agent"
-msgstr ""
+msgstr "ᐊᑐᖅᑎᐅᑉ ᑭᒡᒐᖅᑐᐃᔨᖓ"
 
 #: build/index.js:772
 #: build/index.js:690
 msgid "current"
-msgstr ""
+msgstr "ᒫᓐᓇᐅᔪᖅ"
 
 #: build/index.js:788
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 #: build/index.js:706
 msgid "Name"
-msgstr ""
+msgstr "ᐊᑎᖓ"
 
 #: build/index.js:790
 #: build/index.js:708
 msgid "Website"
-msgstr ""
+msgstr "ᐃᑭᐊᖅᑭᕕᒃ"
 
 #: build/index.js:792
 #: build/index.js:710
 msgid "Admin"
-msgstr ""
+msgstr "ᐊᒡᓚᕕᓕᕆᔨ"
 
 #: build/index.js:913
 #: build/index.js:822
 msgid "Success!"
-msgstr ""
+msgstr "ᑲᔪᓯᑦᑎᐊᕆᑦ!"
 
 #: build/index.js:919
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 #: build/index.js:828
 msgid "There is a problem"
-msgstr ""
+msgstr "ᐊᑲᐅᙱᓕᐅᕈᑎᑕᖃᖅᑐᖅ"
 
 #: build/index.js:944
 #: build/index.js:853
 msgid "Select one"
-msgstr ""
+msgstr "ᓂᕈᐊᕐᓗᑎᑦ ᐊᑕᐅᓯᕐᒥᑦ"
 
 #: build/index.js:1019
 #: build/index.js:928
 msgid "Invite a user to collaborate on your GC Articles collection."
-msgstr ""
+msgstr "ᐊᑐᖅᑎᒥᒃ ᖃᐃᖁᔨᔪᖃᕐᓗᓂ ᐱᓕᕆᖃᑎᖃᖁᓗᒍ GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᔭᕐᓂᒃ ᑲᑎᑕᐅᓯᒪᔪᓂᒃ."
 
 #: build/index.js:1031
 #: build/index.js:940
 msgid "Role"
-msgstr ""
+msgstr "ᐱᓕᕆᐊᒃᓴᑦ"
 
 #: build/index.js:1053
 #: build/index.js:962
 msgid "Confirmation type"
-msgstr ""
+msgstr "ᓇᓗᓇᐃᖅᑕᐅᓂᖓ ᖃᓄᐃᑦᑑᓂᖓ"
 
 #: build/index.js:1057
 #: build/index.js:966
 msgid "Welcome"
-msgstr ""
+msgstr "ᑐᖕᖓᓱᒋᑦ"
 
 #: build/index.js:1060
 #: build/index.js:969
 msgid "Default"
-msgstr ""
+msgstr "ᐊᑭᓖᙱᓐᓂᖅ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/index.js:1
 #: classes/Modules/BlocksPHP/src/subscribe/edit.js:22
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "Subscribe form settings"
-msgstr ""
+msgstr "ᑎᑎᕋᕐᓗᒋᑦ ᑕᑕᑎᕆᐊᓕᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/index.js:1
 #: classes/Modules/BlocksPHP/src/subscribe/edit.js:24
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "Email field label"
-msgstr ""
+msgstr "ᐃᕐᖐᓐᓇᒃᑰᕈᑖᑕ ᑎᑎᖅᑲᖓ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/index.js:1
 #: classes/Modules/BlocksPHP/src/subscribe/edit.js:31
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "Subscribe button label"
-msgstr ""
+msgstr "ᐱᓇᔪᒃᑲᓐᓂᕐᓗᒍ ᓇᕿᑦᑕᐅᑖᑕ ᓇᓗᓇᐃᒃᑯᑕᖓ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/index.js:1
 #: classes/Modules/BlocksPHP/src/subscribe/edit.js:38
 msgid "List"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᑦ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/index.js:1
 #: classes/Modules/BlocksPHP/src/subscribe/edit.js:46
 msgid "Privacy policy link"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔭᕆᐊᖃᙱᑦᑐᓄᑦ ᐊᑐᐊᒐᖅ"
 
 #: classes/Modules/Forms/Contact/js/dist/index.js:205
 #: classes/Modules/Forms/Contact/js/dist/index.js:83
 msgid "Contact"
-msgstr ""
+msgstr "ᖃᐅᔨᒋᐊᕐᕕᒃᓴᖅ"
 
 #: classes/Modules/Forms/Contact/js/dist/index.js:206
 #: classes/Modules/Forms/Contact/js/dist/index.js:84
 msgid "Platform team contact form"
-msgstr ""
+msgstr "ᑐᙵᕕᓕᕆᔩᑦ ᖃᐅᔨᒋᐊᕐᕕᒃᓴᖏᑦ ᑕᑕᑎᕆᐊᓕᒃ"
 
 #: classes/Modules/Forms/RequestSite/js/dist/index.js:201
 #: classes/Modules/Forms/RequestSite/js/dist/index.js:82
 msgid "Request a site"
-msgstr ""
+msgstr "ᐃᓂᒃᓴᖅᑖᕈᒪᓂᖅ"
 
 #: classes/Modules/Forms/RequestSite/js/dist/index.js:202
 #: classes/Modules/Forms/RequestSite/js/dist/index.js:83
 msgid "GC Articles team request a site form"
-msgstr ""
+msgstr "GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᑦ ᐱᓕᕆᖃᑎᒌᑦ ᑐᒃᓯᕋᖅᐳᑦ ᐃᓂᒥᒃ ᑎᑎᕋᕆᐊᓕᖕᒥᒃ"
 
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "List Mananger subscription"
-msgstr ""
+msgstr "ᑎᑎᕋᕐᓗᒋᑦ ᐊᐅᓚᑦᑎᔪᑦ ᐃᓚᒋᔭᐅᔾᔪᑎᖏᑦ"
 
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "Placeholder text"
-msgstr ""
+msgstr "ᐃᓕᓗᒋᑦ ᑎᒍᒥᐊᖅᑎᐅᑉ ᑎᑎᖃᖏᑦ"
 
 #: classes/Modules/Forms/Subscribe/js/dist/index.js:1
 msgid "List ID"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᑦ ᓇᓗᓇᐃᒃᑯᑕᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Message Name"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᐊᑎᖓ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Message type"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᑎᑦᑎᔾᔪᑎ ᖃᓄᐃᑦᑑᓂᖓ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Last modified"
-msgstr ""
+msgstr "ᑭᖑᓪᓕᖅᐹᒥ ᐋᖅᑭᒋᐊᖅᑕᐅᔪᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Edit"
-msgstr ""
+msgstr "ᐋᖅᑭᒋᐊᖅᓯᓂᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Delete"
-msgstr ""
+msgstr "ᐲᔭᕐᓗᒋᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Send Template"
-msgstr ""
+msgstr "ᐊᐅᓪᓚᑎᑦᓯᓂᕐᒧᑦ ᐋᖅᑭᑦᓯᒪᓂᖓ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Messages"
-msgstr ""
+msgstr "ᑐᓴᖅᑎᑦᑎᔾᔪᑎᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Create Template"
-msgstr ""
+msgstr "ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ ᐋᖅᑭᒃᓯᓗᑎᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Message templates"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᑦ ᑎᑎᕋᖅᓯᒪᕙᒌᖅᑐᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Message name"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᐊᑎᖓ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 msgid "Date sent"
-msgstr ""
+msgstr "ᐅᓪᓗᖅ ᐊᐅᓪᓚᖅᑎᑕᐅᑎᓪᓗᒍ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 msgid "List name"
-msgstr ""
+msgstr "ᐊᑎᖏᑦ ᑎᑎᕋᕐᓗᒋᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 msgid "Sender"
-msgstr ""
+msgstr "ᓇᒃᓯᐅᔾᔨᔨ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 msgid "Sending History"
-msgstr ""
+msgstr "ᓇᒃᓯᐅᔾᔨᓂᖅ ᖃᓄᐃᓕᐅᖅᑕᐅᕙᓚᐅᖅᑐᓂᒃ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "Showing"
-msgstr ""
+msgstr "ᑕᑯᒃᓴᐅᑎᑦᑎᓂᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "of"
-msgstr ""
+msgstr "ᐅᑯᓇᓂ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "previous"
-msgstr ""
+msgstr "ᑭᖑᓂᖔᑦᑎᓐᓂ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/536.014c49cb.chunk.js:1
 msgid "next"
-msgstr ""
+msgstr "ᑭᖑᓪᓕᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 msgid "All message templates"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᓕᒫᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/74.543d198a.chunk.js:1
 msgid "All sending history"
-msgstr ""
+msgstr "ᑕᒪᕐᒥᑦᑎᐊᖅ ᓇᒃᓯᐅᔾᔨᕝᕕᒋᔭᕕᓂᓕᒫᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᕙᓚᐅᖅᑐᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Message preview"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᕿᒥᕐᕈᔭᐅᕙᒌᕐᓂᖓ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Subject"
-msgstr ""
+msgstr "ᐱᔾᔪᑎᖓ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "The message was sent to the the subscribers in the list below."
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᓇᒃᓯᐅᔾᔭᐅᓚᐅᖅᐳᖅ ᐱᑖᖅᑎᑦᑎᔨᓄᑦ ᐊᑖᓂ ᑎᑎᕋᖅᓯᒪᔪᓂ."
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Sending to:"
-msgstr ""
+msgstr "ᐅᕗᖓ ᐊᐅᓪᓚᖅᑎᓪᓗᒋᑦ:"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Message sent"
-msgstr ""
+msgstr "ᑐᓴᒐᒃᓴᖅ ᓇᒃᓯᐅᔾᔭᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Send a new message"
-msgstr ""
+msgstr "ᓄᑖᒥᒃ ᑐᓴᒐᒃᓴᒥᒃ ᓇᒃᓯᐅᔾᔨᓗᑎᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Return to messages"
-msgstr ""
+msgstr "ᐅᑎᕐᓗᓂ ᑐᓴᖅᑎᑦᑎᔾᔪᑎᒧᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Create a new list."
-msgstr ""
+msgstr "ᓄᑖᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᓴᖅᑭᑦᑎᓗᑎᑦ."
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "A subscriber list allows you to collect a group of subscribers that you can send a message to."
 msgstr ""
+"ᐱᑖᖅᑎᑦᑎᔨᑦ ᐊᑎᖏᑦ ᐱᔪᓐᓇᖅᑎᑦᑎᔪᑦ ᐃᓕᖕᓂᒃ ᐊᕝᕗᐃᓂᕐᒥᒃ ᑲᑎᙵᔪᓂ ᐱᑖᖅᑎᑦᑎᔨᓂᑦ ᓇᒃᓯᐅᑎᔪᓐᓇᖅᑕᕐᓂᒃ "
+"ᑐᓴᖅᑎᑦᑎᔾᔪᑎᒥᒃ."
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Send to list?"
-msgstr ""
+msgstr "ᓇᒃᓯᐅᑎᓗᒋᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ?"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "warning"
-msgstr ""
+msgstr "ᐅᔾᔨᖅᓱᕆᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Yes send it"
-msgstr ""
+msgstr "ᐄ ᓇᒃᓯᐅᑎᓗᒍ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "No, cancel"
-msgstr ""
+msgstr "ᐋᒃᑲ, ᓄᖅᑲᖅᑎᑦᑎᔪᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Send message to a list"
-msgstr ""
+msgstr "ᓇᒃᓯᐅᑎᓗᒍ ᐅᖃᐅᓯᒃᓴᖅ ᑎᑎᕋᖅᓯᒪᔪᓄᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Subscriber list"
-msgstr ""
+msgstr "ᐱᓇᔪᒃᑲᓐᓂᖅᓯᒪᔪᑦ ᐊᑎᖏᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Choose a group to send this message to."
-msgstr ""
+msgstr "ᓂᕈᐊᕆᑦ ᑲᑎᙵᐅᖅᑐᓂᑦ ᓇᒃᓯᐅᔾᔨᓂᐊᖅᑐᒥᑦ ᐆᒥᖓ ᐅᖃᐅᓯᒃᓴᒥᑦ."
 
 #: classes/Modules/ListManager/app/build/static/js/431.db31195f.chunk.js:1
 msgid "Send message"
-msgstr ""
+msgstr "ᓇᒃᓯᐅᑎᓗᒍ ᐅᖃᐅᓯᒃᓴᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/528.1e3e09a5.chunk.js:1
 msgid "Sending history"
-msgstr ""
+msgstr "ᓇᒃᓯᐅᔾᔨᓂᖅ ᖃᓄᐃᓕᐅᖅᑕᐅᕙᓚᐅᖅᑐᓂᒃ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/958.f540b6f4.chunk.js:1
 msgid "Go back"
-msgstr ""
+msgstr "ᐅᑎᕆᐊᕆᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Required Field"
-msgstr ""
+msgstr "ᐱᔭᐅᔭᕆᐊᓕᒃ ᓯᓚᒥ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Name is required"
-msgstr ""
+msgstr "ᐊᑎᖓ ᐱᔭᕆᐊᓕᒃ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "List type"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᑦ ᖃᓄᐃᑦᑑᓂᖏᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Type is required"
-msgstr ""
+msgstr "ᑭᓲᔭᕆᐊᖃᖅᑐᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Subscribe template id"
-msgstr ""
+msgstr "ᑎᑎᕋᕈᓐᓇᐅᑎᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Unsubscribe template id"
-msgstr ""
+msgstr "ᑎᑎᕋᖅᓯᒪᙱᑦᑐᑦ ᓇᓗᓇᐃᒃᑯᑕᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Subscribe redirect url"
-msgstr ""
+msgstr "ᐊᑎᖃᖃᑕᐅᔪᖅ ᑐᕌᑲᐅᑎᒋᔪᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Unsubscribe redirect url"
-msgstr ""
+msgstr "ᑐᓂᓯᓯᒪᙱᑦᑐᑦ ᑐᕌᑲᐅᑎᒋᔪᑦ"
 
 #: classes/Modules/ListManager/app/build/static/js/569.8dbb719d.chunk.js:1
 #: classes/Modules/ListManager/app/build/static/js/710.109d2578.chunk.js:1
 msgid "Confirm redirect url"
-msgstr ""
+msgstr "ᓇᓗᓇᐃᕐᓗᒍ ᑐᕌᕈᑎᐅᑉ ᑐᕌᕈᑖ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Edit email message"
-msgstr ""
+msgstr "ᐃᕐᖐᓈᖅᑕᐅᒃᑯᑦ ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᐋᖅᑭᒋᐊᖅᑕᐅᓗᓂ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Your recipients will not see this message name."
-msgstr ""
+msgstr "ᐱᑎᑕᐅᓂᐊᖅᑐᑦ ᑖᔅᓱᒥᖓ ᐊᑎᕐᒥ ᑕᑯᔾᔮᙱᑦᑐᑦ."
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Subject line of the email"
-msgstr ""
+msgstr "ᐱᔾᔪᑎᖓ ᐃᕐᖐᓐᓇᒃᑰᕈᑎᐅᑉ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Tell recipients what the message is about. Try to keep it shorter than 10 words."
-msgstr ""
+msgstr "ᐅᖃᐅᑎᓗᒋᑦ ᐱᑎᑕᐅᔪᑦ ᑭᓱᒥᒃ ᐱᔾᔪᑎᖃᕐᒪᖔᑦ. ᓇᐃᓐᓂᖅᓴᐅᑎᓐᓇᓱᒡᓗᒍ 10−ᓂᒃ ᐅᖃᐅᓯᕐᓂᒃ."
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Subject is required"
-msgstr ""
+msgstr "ᐱᔾᔪᑎᖓ ᐱᔭᕆᐊᓕᒃ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Message"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Message is required"
-msgstr ""
+msgstr "ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᐱᔭᐅᔭᕆᐊᖃᖅᐳᖅ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Save template"
-msgstr ""
+msgstr "ᑐᖅᑯᖅᓯᓯᒪᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ"
 
 #: classes/Modules/ListManager/app/build/static/js/806.213ea476.chunk.js:1
 msgid "Delete this message template"
-msgstr ""
+msgstr "ᐲᕐᓗᒍ ᑖᓐᓇ ᑐᓴᖅᑕᐅᔪᒃᓴᖅ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ"
 
 #: classes/Modules/BlocksPHP/build/contact/block.json
 #: classes/Modules/BlocksPHP/src/contact/block.json
 msgctxt "block title"
 msgid "GC Articles Contact"
-msgstr ""
+msgstr "GC−ᒧᑦ ᑎᑎᕋᖅᓯᒪᓪᓗᑎᒃ ᖃᐅᔨᒋᐊᕐᕕᐅᔪᓐᓇᖅᑐᓄᑦ"
 
 #: classes/Modules/BlocksPHP/build/contact/block.json
 #: classes/Modules/BlocksPHP/build/request/block.json
@@ -1248,34 +1268,34 @@ msgstr ""
 #: classes/Modules/BlocksPHP/src/request/block.json
 msgctxt "block description"
 msgid "Internal Contact form for GC Articles"
-msgstr ""
+msgstr "ᐃᖅᑲᓇᐃᔭᕐᕕᐅᑉ ᐃᓗᐊᓂ ᖃᐅᔨᒋᐊᕐᕕᒃᓴᖅ ᑎᑎᕋᕐᕕᒃᓴᖅ GC−ᒧᑦ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᓄᑦ"
 
 #: classes/Modules/BlocksPHP/build/request/block.json
 #: classes/Modules/BlocksPHP/src/request/block.json
 msgctxt "block title"
 msgid "GC Articles Request a site"
-msgstr ""
+msgstr "GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᑦ ᑐᒃᓯᕋᖅᐳᑦ ᐃᓂᒃᓴᒥᒃ"
 
 #: classes/Modules/BlocksPHP/build/site-counter/block.json
 #: classes/Modules/BlocksPHP/src/site-counter/block.json
 msgctxt "block title"
 msgid "GC Articles Site Counter"
-msgstr ""
+msgstr "GC−ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᑦ ᐃᓂᒥᒃ"
 
 #: classes/Modules/BlocksPHP/build/site-counter/block.json
 #: classes/Modules/BlocksPHP/src/site-counter/block.json
 msgctxt "block description"
 msgid "Internal Site Counter for GC Articles"
-msgstr ""
+msgstr "ᐃᖅᑲᓇᐃᔭᕐᕕᐅᑉ ᐃᓗᐊᓂ ᑎᑎᕋᖅᓯᒪᔪᑦ (GC)-ᑯᑦ ᑎᑎᕋᖅᓯᒪᔭᖏᑦ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/block.json
 #: classes/Modules/BlocksPHP/src/subscribe/block.json
 msgctxt "block title"
 msgid "Subscribe"
-msgstr ""
+msgstr "ᐱᓇᔪᖃᑕᐅᔪᓐᓇᖅᑐᑦ"
 
 #: classes/Modules/BlocksPHP/build/subscribe/block.json
 #: classes/Modules/BlocksPHP/src/subscribe/block.json
 msgctxt "block description"
 msgid "List Mananger subscription"
-msgstr ""
+msgstr "ᑎᑎᕋᕐᓗᒋᑦ ᐊᐅᓚᑦᑎᔪᑦ ᐃᓚᒋᔭᐅᔾᔪᑎᖏᑦ"
