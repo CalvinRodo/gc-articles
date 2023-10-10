@@ -1,0 +1,267 @@
+# Copyright (C) 2023 CDS
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: CDS Default 3.11.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cds-default\n"
+"POT-Creation-Date: 2023-09-25T18:01:22+00:00\n"
+"PO-Revision-Date: 2023-10-10 14:12+0000\n"
+"Last-Translator: Weblate Admin <calvin.rodo@cds-snc.ca>\n"
+"Language-Team: Inuktitut <http://weblate.example.com/projects/gc-articles/"
+"cds-base/iu/>\n"
+"Language: iu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 2) ? 1 : 2);\n"
+"X-Generator: Weblate 5.1-dev\n"
+"X-Domain: cds-snc\n"
+
+#. Theme Name of the theme
+msgid "CDS Default"
+msgstr "ᕿᓪᓕᖅᑕᑦ ᕿᓪᓕᖅᑕᑦ"
+
+#. Description of the theme
+msgid "WET styled Starter Theme"
+msgstr "ᖃᐅᓯᖅᑐᒥᒃ ᐱᒋᐊᕈᑕᐅᓂᐊᖅᑑᑉ ᐱᔪᒥᓵᕈᑎᖓ"
+
+#. Author of the theme
+msgid "CDS"
+msgstr "ᕿᓪᓕᖅᑐᖅ"
+
+#: 404.php:18
+msgid "Page not found."
+msgstr "ᒪᒃᐱᒐᖅ ᒪᒃᐱᖅᑐᕋᖓ ᓇᓂᔭᐅᙱᑦᑐᖅ"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location."
+msgstr "ᑕᕝᕙᓂ ᓇᓂᔭᐅᔪᖃᖅᑑᔮᖏᒻᒪᑦ."
+
+#: functions.php:78
+msgid "Primary"
+msgstr "ᓯᕗᓪᓕᖅ"
+
+#: functions.php:79
+msgid "Footer"
+msgstr "ᐊᑖᓃᑦᑐᖅ"
+
+#: functions.php:80
+msgid "Top bar"
+msgstr "ᖁᓛᓂ ᐃᒥᕐᕕᒃ"
+
+#: functions.php:99
+msgid "Black"
+msgstr "ᕿᕐᓂᖅᑐᖅ"
+
+#: functions.php:104
+msgid "White"
+msgstr "ᖃᐅᓪᓗᖅᑐᖅ"
+
+#: functions.php:109
+msgid "Primary Blue"
+msgstr "ᑐᖑᔪᖅᑕᖅ"
+
+#: functions.php:114
+msgid "Dark Blue"
+msgstr "ᑐᖑᔪᖅᑕᖅ"
+
+#: functions.php:119
+msgid "Light Blue"
+msgstr "ᑐᖑᔪᖅᑕᖅ"
+
+#: functions.php:124
+msgid "Dark Grey"
+msgstr "ᑕᒃ ᒍᕇ"
+
+#: functions.php:129
+msgid "Grey"
+msgstr "ᓯᐊᕐᓇᖅ"
+
+#: functions.php:134
+msgid "Orange"
+msgstr "ᐊᐅᒪᐅᔭᖅ"
+
+#: functions.php:139
+msgid "Green"
+msgstr "ᑐᖑᔪᕈᔪᒃᑐᖅ"
+
+#: functions.php:144
+msgid "Red"
+msgstr "ᐊᐅᐸᖅᑐᖅ"
+
+#: functions.php:152
+msgid "Small"
+msgstr "ᒥᑭᑦᑐᖅ"
+
+#: functions.php:157
+msgid "Medium"
+msgstr "ᐊᑯᓐᓂᖅᓱᖅᑐᖅ"
+
+#: functions.php:162
+msgid "Large"
+msgstr "ᐊᖏᔪᖅ"
+
+#: functions.php:167
+msgid "X-Large"
+msgstr "X-ᐊᖏᔪᖅ"
+
+#: functions.php:172
+msgid "XX-Large"
+msgstr "XX-ᐊᖏᔪᖅ"
+
+#: functions.php:177
+msgid "XXX-Large"
+msgstr "XXX-ᐊᖏᔪᖅ"
+
+#: functions.php:238
+msgid "GC Homepage"
+msgstr "GC ᐊᖏᕐᕋᐅᑉᐱᒐᖓ"
+
+#: functions.php:255
+msgid "Default homepage"
+msgstr "ᐊᖏᕐᕋᒧᑦ ᑭᑉᐹᕆᒃᓯᓕᖅ"
+
+#: functions.php:260
+msgid "Table of contents"
+msgstr "ᐃᓗᓕᖏᑕ ᓇᓕᖅᑲᖏᑦ"
+
+#: header.php:40
+msgid "Your site is currently in maintenance mode. Only logged in users will be able to see this page."
+msgstr ""
+"ᐃᓂᒋᔭᑦ ᒫᓐᓇ ᓴᓇᔭᐅᖏᓐᓇᖅᐳᖅ. ᖃᕆᑕᐅᔭᒧᐊᖅᑎᖅᓯᒪᔪᑦ ᐊᑐᖅᑎᓂᑦ ᑕᑯᔪᓐᓇᕐᓂᐊᖅᑐᑦ ᑖᔅᓱᒥᖓ ᒪᒃᐱᖅᑐᒐᕐᒥᒃ."
+
+#: header.php:43
+msgid "To make your site live <a href=\"%s\">update your site settings</a>."
+msgstr "ᐃᑦᑕᕐᓂᓴᖃᕐᕖᑦ ᓴᖅᑭᔮᖁᓪᓗᒍ <a href=\"%s\"> ᓄᑖᙳᕆᐊᖅᑎᓪᓗᒍ ᐃᓂᕕᑦ ᐋᖅᑭᒃᓯᒪᓂᖓ </a>."
+
+#: header.php:52
+msgid "Skip to content"
+msgstr "ᐊᓪᓗᕐᓗᒋᑦ ᐃᓗᓕᖏᑦ"
+
+#: header.php:65
+msgid "Sign out"
+msgstr "ᐊᑎᓕᐅᕐᓗᑎᑦ"
+
+#: header.php:67
+msgid "Sign in"
+msgstr "ᐃᓯᖅᐸᓪᓕᐊᔪᑦ ᐊᑎᓕᐅᕐᓗᑎᒃ"
+
+#: header.php:94
+#: header.php:101
+#: header.php:106
+#: header.php:115
+msgid "Search"
+msgstr "ᕿᓂᕐᓂᖅ"
+
+#: header.php:139
+#: header.php:142
+msgid "Menu"
+msgstr "ᓂᕆᔭᒃᓴᑦ"
+
+#: header.php:141
+msgid "Main"
+msgstr "ᐱᒋᐊᕐᕕᓪᓗᐊᑕᖅ"
+
+#: inc/template-functions.php:32
+msgid "Document navigation"
+msgstr "ᑎᑎᖅᑲᑦ ᓇᒡᕚᖅᓯᐅᖅᑕᐅᓂᖏᑦ"
+
+#: inc/template-functions.php:37
+msgid "Next blog post"
+msgstr "ᑭᖑᓪᓕᕐᒥ ᓂᐱᑦᑕᔫᖅ"
+
+#: inc/template-functions.php:48
+msgid "Previous blog post"
+msgstr "ᓯᕗᓪᓚᐅᔨᔪᖅ ᑎᑎᖅᑲᒃᑯᕕᒃ"
+
+#: inc/template-functions.php:93
+msgid "Older posts"
+msgstr "ᓄᑕᐅᙱᓐᓂᖅᓴᑦ ᓇᑉᐸᖅᑎᑕᐅᓯᒪᔪᑦ"
+
+#: inc/template-functions.php:94
+msgid "Newer posts"
+msgstr "ᓄᑖᑦ ᓴᖅᑭᑕᐅᔪᑦ"
+
+#: inc/template-functions.php:95
+msgid "Posts navigation"
+msgstr "ᐃᓕᓯᓂᖅ ᑕᒻᒪᕇᒃᑯᑎᓂᒃ"
+
+#: inc/template-functions.php:96
+msgid "Posts"
+msgstr "ᓴᖅᑭᑕᐅᔪᑦ"
+
+#: inc/template-functions.php:168
+msgid "Breadcrumbs"
+msgstr "ᓂᐊᖂᔭᐃᑦ"
+
+#: inc/template-functions.php:170
+msgid "You are here:"
+msgstr "ᑕᒫᓃᑉᐳᑎᑦ:"
+
+#: inc/template-functions.php:454
+msgid "Toggle submenu"
+msgstr "ᐃᒡᒑᒃ ᐃᒡᒑᒃ"
+
+#: inc/template-functions.php:457
+msgid "Top menu"
+msgstr "ᖁᓛᓂ ᓂᕆᔭᒃᓴᑦ"
+
+#: inc/template-functions.php:458
+msgid "submenu"
+msgstr "ᐊᑎᐊᓃᑦᑐᑦ"
+
+#: inc/template-functions.php:479
+msgid "Toggle submenu for "
+msgstr "ᐃᒡᒑᒃ ᐃᒡᒑᒃ "
+
+#: inc/template-functions.php:495
+msgid "Date modified:"
+msgstr "ᐅᓪᓗᖅ ᐋᖅᑭᒋᐊᖅᑕᐅᔪᖅ:"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:44
+msgctxt "post author"
+msgid "by %s"
+msgstr "%−ᑎᒍᑦ"
+
+#: maintenance.php:5
+msgid "We’re currently working on this"
+msgstr "ᑕᒪᓐᓇ ᒫᓐᓇ ᐱᓕᕆᐊᕆᔭᕗᑦ"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "ᕿᓂᕈᑕᐅᓯᒪᔪᑦ: %s"
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "ᓇᓂᓯᔪᖃᙱᑦᑐᖅ"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ᓴᖅᑭᑐᐃᓐᓇᕆᐊᖃᓕᖅᑕᐃᑦ ᓯᕗᓪᓕᖅᐹᒥᑦ ᓴᖅᑭᑕᐃᑦ? <a href=\"%1$s\"> ᐱᒋᐊᕆᑦ ᐅᕙᓂ </a>."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+"ᒪᒥᐊᓇᖅ, ᑭᓯᐊᓂ ᐊᔾᔨᒋᓚᐅᙱᒻᒪᒍ ᕿᓂᕐᓂᕆᔭᕕᑦ ᑕᐃᒎᓰᑦ. ᐆᒃᑐᒃᑲᓐᓂᙳᐊᑕᖅᓯᓐᓇᕆᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ "
+"ᐅᖃᐅᓯᐅᓪᓗᐊᑕᖅᑐᓂᒃ."
+
+#: template-parts/content-none.php:44
+msgid "Nothing found! Perhaps searching can help."
+msgstr "ᓇᓂᓯᔪᖃᙱᑦᑐᖅ! ᐃᒻᒪᖃ ᕿᓂᕐᓂᖅ ᐃᑲᔪᕈᓐᓇᖅᑐᖅ."
+
+#: template-parts/content-page.php:26
+msgid "Pages:"
+msgstr "ᒪᒃᐱᖅᑐᒐᐃᑦ:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ᐋᖅᑭᒋᐊᖅᑕᐅᔪᖅ <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "ᐅᖃᓕᒫᖏᓐᓇᕐᓗᒍ<span class=\"screen-reader-text\"> \"%s\"</span>"
